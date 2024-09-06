@@ -10,7 +10,7 @@ def jejari_tinggi():
     return (r, h)
 
 def luas():
-    (r,h) = jejari_tinngi()
+    (r,h) = jejari_tinggi()
     # Proses
     # Pengiraan luas permukaan tangki air (A)
     A = (2 * pi * r**2) + (2 * pi * r * h)
